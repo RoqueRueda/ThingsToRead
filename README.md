@@ -9,7 +9,7 @@ Interest stuff to read when I have the time
 | 4 | https://www.rivu.dev/basics-of-functional-programming-with-kotlin/ | Pending |
 | 5 | https://hackernoon.com/functional-programming-by-example-with-kotlin-27fd7e49b55f | Pending |
 | 6 | https://www.functionalkotlin.com/ | Pending |
-| 7 | ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript | Pending |
+| 7 | https://github.com/ryanmcdermott/clean-code-javascript | Pending |
 | - |  |  |
 | - |  |  |
 | - |  |  |
