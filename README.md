@@ -10,8 +10,8 @@ Interest stuff to read when I have the time
 | 5 | https://hackernoon.com/functional-programming-by-example-with-kotlin-27fd7e49b55f | Pending |
 | 6 | https://www.functionalkotlin.com/ | Pending |
 | 7 | https://github.com/ryanmcdermott/clean-code-javascript | Pending |
-| - |  |  |
-| - |  |  |
+| 8 | https://www.youtube.com/watch?v=0IKHxjkgop4 | Pending |
+| 9 | https://www.youtube.com/watch?v=Ls0uKLqNFz4 | In progress |
 | - |  |  |
 | - |  |  |
 | - |  |  |
