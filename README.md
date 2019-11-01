@@ -13,6 +13,6 @@ Interest stuff to read when I have the time
 | 8 | https://www.youtube.com/watch?v=0IKHxjkgop4 | Done ✅ Explains RX to use state really nice |
 | 9 | https://www.youtube.com/watch?v=Ls0uKLqNFz4 | Done ✅ |
 | 10 | https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/ | Pending |
-| - |  |  |
+| 11 | https://caster.io/lessons/android-mvi-defining-model-and-state | Pending |
 | - |  |  |
 | - |  |  |
